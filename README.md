@@ -10,12 +10,12 @@ CityCare Clinic has asked us, as consultants, to check the requirements document
 
 ## Folder structure
 
-lab02/
-├── srs/meditrack-srs.md      (the SRS we checked)
-├── checklist/v0.1.md         (our validation checklist)
-├── runs/run-A.md             (Student A's individual run)
-├── runs/run-B.md             (Student B's individual run)
-└── findings.md               (agreed problems in the SRS)
+system-validation-checklist/
+├── srs/
+├── checklist/
+├── runs/
+├── findings.md
+└── README.md
 
 ## Key results
 
